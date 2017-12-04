@@ -1,0 +1,23 @@
+*.class
+# Package Files #
+*.jar
+*.zip
+*.iml
+*.log
+.project
+.metadata
+target/
+bin/**
+tmp/**
+tmp/**/*
+*.tmp
+*.bak
+.classpath
+.settings/
+.loadpath
+# Locally stored "Eclipse launch configurations"
+*.launch
+.idea/
+*.classpath
+*.project
+*.settings
